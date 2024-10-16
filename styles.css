@@ -1,0 +1,13 @@
+﻿body {
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  padding: 20px;
+}
+
+#status {
+  margin-top: 10px;
+  padding: 10px;
+  color: white;
+}
